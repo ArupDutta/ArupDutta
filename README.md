@@ -1,7 +1,7 @@
 ### Hi there, I'm Arup 👋
 
-## I'm a Developer, Blogger and Teacher!
-- 🔭 I’m currently working on a blog!
+## I'm a Developer, Blogger and Trainer!
+- 🔭 I’m currently working on a blog [TAU!](www.taublogg.blogspot.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -10,8 +10,14 @@
 ### Connect with me:
 
 
+[<a href="www.taublogg.blogspot.com"><img align="left" alt="ArupDutta | TAU" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/www.svg" /></a>][website]
+[<a href="https://www.linkedin.com/in/arup-dutta-8a35a2106/"><img align="left" alt="ArupDutta | LinkedIn" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/linkedin.svg" /></a>][linkedin]
+[<a href="https://www.instagram.com/arupdut_ta/"><img align="left" alt="ArupDutta | Instagram" width="22px" src="https://github.com/ArupDutta/ArupDutta/blob/master/instagram-sketched.svg" /></a>][instagram]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_1409945?term=linkedin&page=1&position=5" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_1384063?term=instagram&page=1&position=15" />][instagram]
+<br />
 
+### Languages and Tools:
+
+
+<br />
 <br />
