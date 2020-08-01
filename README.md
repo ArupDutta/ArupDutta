@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Arup 👋
 
-<!--
-**ArupDutta/ArupDutta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer, Blogger and Teacher!
+- 🔭 I’m currently working on a blog!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play soccer
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.flaticon.com/free-icon/linkedin_1409945?term=linkedin&page=1&position=5" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.flaticon.com/free-icon/instagram_1384063?term=instagram&page=1&position=15" />][instagram]
+
+<br />
