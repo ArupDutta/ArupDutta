@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love to play soccer
 
 
-
+<br/>
 
 
 <img align="left" alt="ArupDutta | Protfolio" width="200px" src="https://github.com/ArupDutta/ArupDutta/blob/master/Pics/cartoon_4.gif" />
