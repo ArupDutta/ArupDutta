@@ -15,7 +15,6 @@
 
 <img align="left" alt="ArupDutta | Protfolio" width="200px" src="https://github.com/ArupDutta/ArupDutta/blob/master/Pics/cartoon_4.gif" />
 
-<br />
 
 ### Connect with me:
 
