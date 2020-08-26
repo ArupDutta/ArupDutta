@@ -3,7 +3,7 @@
 <img align="left" alt="ArupDutta | Protfolio" width="200px" src="https://github.com/ArupDutta/ArupDutta/blob/master/Pics/cartoon_2.jpg" />
 
 ## I'm a Developer, Blogger and Trainer!
-- 🔭 I’m currently working on a blog [TAU!](www.taublogg.com)
+- 🔭 I’m currently working on a blog [TAU!](https://www.taublogg.com)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
